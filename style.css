@@ -1,4 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: darkslateblue;
+    color: wheat;
     text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
 }
+img {
+    height: 70vh;
+    object-fit: contain;
+}
+    
